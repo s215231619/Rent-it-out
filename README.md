@@ -1,4 +1,4 @@
 # Rent-it-out
 This is a class exercise
-website for projects
+\nwebsite for projects
 1.new branch created.
